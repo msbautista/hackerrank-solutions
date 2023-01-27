@@ -1,4 +1,8 @@
-class Result {
+public class Staircase {
+
+    public static void main(String[] args) {
+        staircase(5);
+    }
 
     /*
      * problem: https://www.hackerrank.com/challenges/staircase

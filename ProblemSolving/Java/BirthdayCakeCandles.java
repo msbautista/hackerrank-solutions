@@ -1,7 +1,13 @@
 import java.util.*;
 import java.util.stream.*;
 
-class Result {
+public class BirthdayCakeCandles {
+
+    public static void main(String[] args) {
+        List<Integer> a = Arrays.asList(3,2,1,3);
+        int totalCandlesTallest = birthdayCakeCandles(a);
+        System.out.println(totalCandlesTallest);
+    }
 
     /*
      * problem: https://www.hackerrank.com/challenges/birthday-cake-candles

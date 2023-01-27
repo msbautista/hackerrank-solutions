@@ -1,6 +1,12 @@
 import java.util.*;
 
-class Result {
+public class CompareTheTriplets {
+
+    public static void main(String[] args) {
+        List<Integer> a = Arrays.asList(5,6,7);
+        List<Integer> b = Arrays.asList(3,6,10);
+        System.out.println(compareTriplets(a,b));
+    }
 
     /*
      * problem: https://www.hackerrank.com/challenges/compare-the-triplets
@@ -27,6 +33,7 @@ class Result {
             }
         }
         Integer[] points = new Integer[] { alicePoints, bobPoints };
+
         return Arrays.asList(points);
     }
 
