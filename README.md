@@ -11,3 +11,4 @@ Solutions with Java to hackerrank algorithms:
 Solutions with C# to hackerrank algorithms:
 
  * [Time Conversion](https://www.hackerrank.com/challenges/time-conversion)
+ * [TGrading Students](https://www.hackerrank.com/challenges/grading)
