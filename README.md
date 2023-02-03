@@ -7,8 +7,9 @@ Solutions with Java to hackerrank algorithms:
  * [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets)
  * [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles)
  * [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum)
+ * [Java Lambda Expressions](https://www.hackerrank.com/challenges/java-lambda-expressions)
 
 Solutions with C# to hackerrank algorithms:
 
  * [Time Conversion](https://www.hackerrank.com/challenges/time-conversion)
- * [TGrading Students](https://www.hackerrank.com/challenges/grading)
+ * [Grading Students](https://www.hackerrank.com/challenges/grading)
