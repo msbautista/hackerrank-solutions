@@ -1,5 +1,6 @@
 import java.io.*;
 import java.util.*;
+import java.util.stream.IntStream;
 
 interface PerformOperation {
     boolean check(int a);
@@ -18,12 +19,9 @@ class MyMath {
 
     public PerformOperation isPrime() {
         return x -> {
-            int countDivisor = 0;
-            for (int i = 1; i <= x; i++) {
-                if (x % i == 0) {
-                    countDivisor++;
-                }
-            }
+            long countDivisor = IntStream.rangeClosed(1, x)
+                    .filter(n -> x % n == 0)
+                    .count();
             return countDivisor == 2;
         };
     }
