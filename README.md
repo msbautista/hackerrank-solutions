@@ -19,3 +19,4 @@ This repository contains HackerRank algorithm solutions. It is organized by Hack
  * [Java Lambda Expressions](https://www.hackerrank.com/challenges/java-lambda-expressions)
  * [Java Factory Pattern](https://www.hackerrank.com/challenges/java-factory)
  * [Java Singleton Pattern](https://www.hackerrank.com/challenges/java-singleton)
+ * [Java Stack](https://www.hackerrank.com/challenges/java-stack)
