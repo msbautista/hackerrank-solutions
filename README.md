@@ -4,12 +4,6 @@ This repository contains HackerRank algorithm solutions. It is organized by Hack
 
 ![image](https://user-images.githubusercontent.com/57375735/225199039-1a486291-2531-42d8-95d6-f11a8c0e1a4b.png)
 
-
-## Java
-
- * [Java Lambda Expressions](https://www.hackerrank.com/challenges/java-lambda-expressions)
- * [Java Pattern Factory](https://www.hackerrank.com/challenges/java-factory)
-
 ## Problem Solving
 
  * [Staircase](https://www.hackerrank.com/challenges/staircase)
@@ -19,3 +13,9 @@ This repository contains HackerRank algorithm solutions. It is organized by Hack
  * [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum)
  * [Time Conversion](https://www.hackerrank.com/challenges/time-conversion)
  * [Grading Students](https://www.hackerrank.com/challenges/grading)
+
+## Java
+
+ * [Java Lambda Expressions](https://www.hackerrank.com/challenges/java-lambda-expressions)
+ * [Java Factory Pattern](https://www.hackerrank.com/challenges/java-factory)
+ * [Java Singleton Pattern](https://www.hackerrank.com/challenges/java-singleton)
