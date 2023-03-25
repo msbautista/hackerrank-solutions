@@ -22,4 +22,5 @@ This repository contains HackerRank algorithm solutions. It is organized by Hack
  * [Java Stack](https://www.hackerrank.com/challenges/java-stack)
  * [Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting)
  * [Java Loops I](https://www.hackerrank.com/challenges/java-loops-i)
+ * [Java BigDecimal](https://www.hackerrank.com/challenges/java-bigdecimal)
 
