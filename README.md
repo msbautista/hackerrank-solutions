@@ -7,7 +7,7 @@ This repository contains HackerRank algorithm solutions. It is organized by Hack
 ## Problem Solving
 
  * [Staircase](https://www.hackerrank.com/challenges/staircase)
- * [Countin sort 1](https://www.hackerrank.com/challenges/countingsort1/problem)
+ * [Countin sort 1](https://www.hackerrank.com/challenges/countingsort1)
  * [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets)
  * [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles)
  * [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum)
@@ -20,3 +20,6 @@ This repository contains HackerRank algorithm solutions. It is organized by Hack
  * [Java Factory Pattern](https://www.hackerrank.com/challenges/java-factory)
  * [Java Singleton Pattern](https://www.hackerrank.com/challenges/java-singleton)
  * [Java Stack](https://www.hackerrank.com/challenges/java-stack)
+ * [Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting)
+ * [Java Loops I](https://www.hackerrank.com/challenges/java-loops-i)
+

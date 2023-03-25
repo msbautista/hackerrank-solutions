@@ -36,6 +36,7 @@ class MyMath {
     }
 }
 
+//Problem: https://www.hackerrank.com/challenges/java-lambda-expressions
 public class LambdaExpressions {
 
     public static void main(String[] args) throws IOException {

@@ -1,6 +1,9 @@
 import java.util.Scanner;
 
-//Resource: https://www.baeldung.com/java-printstream-printf
+/*
+    Problem: https://www.hackerrank.com/challenges/java-output-formatting
+    Resource: https://www.baeldung.com/java-printstream-printf
+ */
 public class JavaOutputFormatting {
 
     public static void main(String[] args) {

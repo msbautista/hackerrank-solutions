@@ -1,3 +1,5 @@
+
+// Problem: https://www.hackerrank.com/challenges/java-singleton
 public class JavaSingletonPattern {
 
     public static void main(String[] args) {

@@ -29,6 +29,7 @@ class FoodFactory {
 
 }//End of factory class
 
+//Problem: https://www.hackerrank.com/challenges/java-factory
 public class JavaFactoryPattern {
 
     public static void main(String args[]) {

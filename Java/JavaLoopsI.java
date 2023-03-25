@@ -1,5 +1,6 @@
 public class JavaLoopsI {
 
+    // Problem: https://www.hackerrank.com/challenges/java-loops-i
     public static void main(String[] args) {
         int number = 2;
         printMultiples(number);
