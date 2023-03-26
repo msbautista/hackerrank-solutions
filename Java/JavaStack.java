@@ -1,7 +1,7 @@
 import java.util.*;
 
 //Problem: https://www.hackerrank.com/challenges/java-stack
-class JavaStack {
+public class JavaStack {
 
     public static void main(String[] argh) {
         String parentheses = "[{()}]";
