@@ -25,3 +25,4 @@ This repository contains HackerRank algorithm solutions. It is organized by Hack
  * [Java BigDecimal](https://www.hackerrank.com/challenges/java-bigdecimal)
  * [Java SHA-256](https://www.hackerrank.com/challenges/sha-256)
  * [Java MD5](https://www.hackerrank.com/challenges/java-md5)
+ * [Java Comparator](https://www.hackerrank.com/challenges/java-comparator)
