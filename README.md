@@ -27,3 +27,4 @@ This repository contains HackerRank algorithm solutions. It is organized by Hack
  * [Java MD5](https://www.hackerrank.com/challenges/java-md5)
  * [Java Comparator](https://www.hackerrank.com/challenges/java-comparator)
  * [Java Sort](https://www.hackerrank.com/challenges/java-sort)
+ * [Java 1D Array](https://www.hackerrank.com/challenges/java-1d-array-introduction)
