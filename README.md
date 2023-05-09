@@ -13,6 +13,7 @@ This repository contains HackerRank algorithm solutions. It is organized by Hack
  * [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum)
  * [Time Conversion](https://www.hackerrank.com/challenges/time-conversion)
  * [Grading Students](https://www.hackerrank.com/challenges/grading)
+ * [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse)
 
 ## Java
 
