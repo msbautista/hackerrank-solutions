@@ -14,6 +14,7 @@ This repository contains HackerRank algorithm solutions. It is organized by Hack
  * [Time Conversion](https://www.hackerrank.com/challenges/time-conversion)
  * [Grading Students](https://www.hackerrank.com/challenges/grading)
  * [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse)
+ * [The Time In Words](https://www.hackerrank.com/challenges/the-time-in-words)
 
 ## Java
 
